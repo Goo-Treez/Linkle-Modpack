@@ -29,6 +29,16 @@
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/634a3ff019394.jpg"
       ]
+    },
+    {
+      "id": "ps5ui",
+      "name": "PS5 Controller UI",
+      "type": "mod",
+      "version": "1.3",
+      "author": "proofeek",
+      "description": "Ultimate PS5 UI is a graphic pack, BCML and UKMM mod for Cemu that replaces the entire WiiU UI with the PS5 UI. The mod also replaces all tips and tutorials with the PS5 UI ones.",
+      "download": "https://github.com/Goo-Treez/Linkle-Modpack/releases/download/PS5UI/ultimateps5ui_st__13a.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_642d9384c5028_530.webp"
     }
   ]
 }
