@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "name": "Linkle",
+  "author": "Goo-Treez",
+  "description": "This is BOTW but you play as Linkle.",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/botw/game.json"
+    }
+  ]
+}
